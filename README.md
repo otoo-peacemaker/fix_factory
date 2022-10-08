@@ -1,6 +1,14 @@
 # fix_deprecated_apis_android
 ## Fixing deprecated api in android
 
+## How to become a contributor
+- send me your github username here: [infofeedacc@gmail.com]
+- Accept the invite to become a contributor
+- clone the project : git clone 
+- git branch with your username : git checkout -b peacemaker
+- add your contribution and push it to your branch
+- create a pull request
+
 ## How to contribute
 - Search for solution on any deprecated library or API you will come accross
 - Read the new release API doc
