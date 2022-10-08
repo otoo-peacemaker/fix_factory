@@ -5,7 +5,7 @@ A program element annotated @Deprecated is one that programmers are discouraged 
 ## How to become a contributor
 - send me your github username here: [infofeedacc@gmail.com]
 - Accept the invite to become a contributor
-- clone the project : git clone https://github.com/otoo-peacemaker/fix_deprecated_apis_android.git
+- clone the project : git clone https://github.com/otoo-peacemaker/fix_factory.git
 - git branch with your username : git checkout -b yourusername
 - add your contribution and push it to your branch
 - create a pull request
