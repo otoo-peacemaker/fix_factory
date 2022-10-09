@@ -1,6 +1,8 @@
-# fix_deprecated_apis_android
-A program element annotated @Deprecated is one that programmers are discouraged from using, typically because it is dangerous, or because a better alternative exists. Compilers warn when a deprecated program element is used or overridden in non-deprecated code.
-@Oracle
+# Fixing Deprecated APIs in Android
+With each release, specific Android APIs may become obsolete or need to be refactored to provide a better developer experience or support new platform capabilities. In these cases, Android will officially deprecate the obsolete APIs and direct developers to new APIs to use instead.
+
+Deprecation means that we’ve ended official support for the APIs, but they will continue to remain available to developers. This page highlights some of the deprecations in this release of Android. To see other deprecations, refer to the API [diff report](https://developer.android.com/sdk/api_diff/31/changes).
+
 
 ## How to become a contributor
 - send me your github username here: [infofeedacc@gmail.com]
